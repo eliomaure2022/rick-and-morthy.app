@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react';
 import Residents from './Residents';
 import RingLoader from "react-spinners/RingLoader";
 import SearchPage from './SearchPage';
-
+import heart from '../assets/heart.png'
 
 const PlanetsLocations = () => {
 
