@@ -10,7 +10,7 @@ const Residents = ({ url }) => {
       .then(res => setResident(res.data))
   }, [])
 
-  console.log(resident);
+
 
   return (
       <div className='character-card'>
